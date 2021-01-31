@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\resources",
+    "\\src\\test",
+    "\\src\\test\\java",
+    "\\src\\test\\java\\core",
+    "\\src\\test\\java\\Test",
+    "\\target"
+  ],
+  "SelectedNode": "\\src\\test\\java\\Test\\testApi.java",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,16 @@
+{
+  "estoqueForm": {
+    "id": 8,
+    "quantidade": 12
+  },
+  "id": 7,
+  "materiaisDeProducaoForm": [
+    {
+      "id": 1,
+      "nome": "tecido",
+      "materiaisDeProducaoDTO": null,
+      "quantidadeEmEstoque": 5
+    }
+  ],
+  "nome": "vestido"
+}
