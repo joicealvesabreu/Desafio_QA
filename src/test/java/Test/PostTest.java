@@ -12,7 +12,7 @@ import org.junit.Test;
 import io.restassured.RestAssured;
 
 
-public class PostTest {
+public class postTest {
 
 	@Test
 	public void post()  {

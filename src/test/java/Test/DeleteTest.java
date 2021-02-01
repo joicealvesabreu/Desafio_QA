@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import io.restassured.RestAssured;
 
-public class DeleteTest {
+public class deleteTest {
 	
 	@Test
 	public void Delete() {

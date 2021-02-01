@@ -9,7 +9,7 @@ import org.junit.Test;
 import core.baseTest;
 import io.restassured.RestAssured;
 
-public class GetTest extends baseTest{
+public class getTest extends baseTest{
 	
 	
 	
