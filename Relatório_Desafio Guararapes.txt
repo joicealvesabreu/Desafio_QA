@@ -1,0 +1,16 @@
+
+
+Desafio QA  - Guararapes
+
+Apontamentos de problemas no Front: https://desafioqa.z15.web.core.windows.net/
+
+1. Na tela cadastro de materiais a palavra produção (procução) sua escrita esta errado.
+2. Na tela cadastro de materiais o campo quantidade aceitou numeros e uma letra,não gerou nenhuma mensagem de alerta e deixou cadastrar e zerou o campo quantidade na tela seguinte.
+3. Na tela cadastro de materias, no campo nome do material adicionei um caractere depois da palavra Vestido(Vestido@),não gerou nenhuma mensagem de alerta e deixou cadastrar.
+4. Na tela de Listar ordem de produção só mostra Id 1 ao 10.
+5. Na ela de Listar ordem de produção o campo data e horario não tem espaçamento, fica poluido para uma melhor visualização.
+6. Na tela Challenge Guararapes principal, quando clico no botão com desenho de uma lixeira, aparece a mensagem "Ordem de produção, Deseja realmente gerar ordem de produção para este Material?".
+Aqui deveria ser deletar ou apagar o registro. Essa mesma mensagem aparace no primeiro botão.
+7. Na tela Challenge Guararapes principal, a ordem dos id estão fotra de ordem.
+8. Na tela Challenge Guararapes principal, no primeiro botão sempre aparece a mensagem de Erro "Não há matéria-prima suficiente em estoque para gerar o produto."
+
